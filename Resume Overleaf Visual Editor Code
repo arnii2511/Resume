@@ -95,52 +95,29 @@
 %----------HEADING----------
 \begin{center}
     \textbf{\Huge \scshape Arnii Srivastava} \\ \vspace{1pt}
-    \small +91 93216 17214 $|$ \href{mailto:arnii.srivastava05@gmail.com}{\underline{arnii.srivastava05@gmail.com}} $|$ \href{https://linkedin.com/in/arnii-srivastava-6b8373281}{\underline{linkedin.com/in/arnii-srivastava-6b8373281}} $|$ \href{https://github.com/arnii2511}{\underline{github.com/arnii2511}}
+    \small +91 93216 17214 $|$ \href{mailto:arnii.srivastava05@gmail.com}{\underline{arnii.srivastava05@gmail.com}} $|$ 
+    \href{https://linkedin.com/in/arnii-srivastava-6b8373281}{\underline{LinkedIn}} $|$
+    \href{https://github.com/arnii2511}{\underline{GitHub}}
 \end{center}
 
 %-----------EDUCATION-----------
+\vspace{-20pt} % Adjust this value to reduce space
 \section{Education}
   \resumeSubHeadingListStart
     \resumeSubheading
       {Dwarakadas J. Sanghvi College of Engineering}{Vile Parle, Mumbai, Maharashtra}
-      {B.Tech. in Computer Engineering }{Aug. 2023 -- May 2027}
+      {B. Tech. in Computer Engineering}{Aug. 2023 -- May 2027}
       \resumeItemListStart
-      \resumeItem{}
-      {First Year GPA - 9.56}
-    \resumeItemListEnd
+        \resumeItem{\textit{Cumulative GPA:} 9.42}
+      \resumeItemListEnd
+      \vspace{4pt}
     \resumeSubheading
-      {DAV Public School}{New Panvel, Navi Mumbai, Maharashtra}
+      {DAV Public School}{Navi Mumbai, Maharashtra}
       {Senior Secondary School}{}
-     \begin{minipage}[t]{0.48\textwidth}
-      \vspace{1pt}
-        \textit{Percentage:} 95.6\% \\
-        \textit{Courses:} PCM with CS \& English
-      \end{minipage}%
-      \hfill
-      \begin{minipage}[t]{0.48\textwidth}
-        \begin{flushright}
-        \textit{Board:} CBSE \\
-        \textit{Duration:} Apr. 2022 -- Mar. 2023
-        \end{flushright}
-      \end{minipage}
-      \vspace{2pt} % Space between sections
-    \resumeSubheading
-      {DAV Public School}{New Panvel, Navi Mumbai, Maharashtra}
-      {Secondary High School}{}
-      
-      \begin{minipage}[t]{0.48\textwidth}
-      \vspace{2pt}
-        \textit{Percentage:} 94.6\% \\
-        \textit{Courses:} Science, Social Science, Math, English, Hindi
-      \end{minipage}%
-      \hfill
-      \begin{minipage}[t]{0.48\textwidth}
-        \begin{flushright}
-        \textit{Board:} CBSE \\
-        \textit{Duration:} Apr. 2020 -- Mar. 2021
-        \end{flushright}
-      \end{minipage}
-      \vspace{2pt} % Space between sections
+      \resumeItemListStart
+        \resumeItem{\textit{Percentage:} 95.6\% \hfill Duration: Apr. 2022 -- Mar. 2023}
+        \resumeItem{\textit{Courses:} PCM with CS \& English \hfill \textit{Board:} CBSE}
+      \resumeItemListEnd
   \resumeSubHeadingListEnd
 
 %-----------PROJECTS-----------
@@ -156,15 +133,6 @@
         \resumeItem{\href{https://github.com/arnii2511/Basic_Projects_ArniiSrivastava}{\underline{Project Link}}}
       \resumeItemListEnd
     \resumeProjectHeading
-      {\textbf{Medicine Service-Based App Prototype} $|$ \emph{Figma}}{Sep. 2023}
-      \resumeItemListStart
-        \resumeItem{UI prototype for medicine handling with a built-in AI Chat to help with patients' medical symptons and connect them with doctors.}
-        \resumeItem{Designed for SIH Problem Statement Code - 1325.}
-        \resumeItem{Focuses on accessibility, usability  keeping in mind the needs of the patient as well as the Asha Worker.}
-        \resumeItem{Individual Project}
-        \resumeItem{\href{https://l1nq.com/zMwKM}{\underline{Project Link}}}
-      \resumeItemListEnd
-    \resumeProjectHeading
       {\textbf{DJS ARYA Mobile Application Prototype} $|$ \emph{Figma}}{Feb. 2024}
       \resumeItemListStart
         \resumeItem{UI prototype for college committee's app.}
@@ -173,11 +141,32 @@
         \resumeItem{\href{https://acesse.dev/ZfgDM}{\underline{Project Link}}}
       \resumeItemListEnd
     \resumeProjectHeading
+      {\textbf{Colorization of Grayscale Images Using GANs} $|$ \emph{Python, OpenCV, TensorFlow}}{2024}
+      \resumeItemListStart
+        \resumeItem{Developed a Generative Adversarial Network (GAN) from scratch to generate colored images from grayscale inputs using Kaggle's Landscape dataset.}
+        \resumeItem{Achieved a test loss of approximately 0.0085.}
+        \resumeItem{Individual Project}
+      \resumeItemListEnd
+    \resumeProjectHeading
+      {\textbf{Celebrity Face Recognition Using EfficientNet-B3} $|$ \emph{Python, TensorFlow-Keras, skLearn, Matplotlib}}{2024}
+      \resumeItemListStart
+        \resumeItem{Implemented EfficientNet-B3 to predict celebrity names from images using Kaggle's Pins Face Recognition dataset.}
+        \resumeItem{Achieved a validation accuracy of 94.47\%.}
+        \resumeItem{Individual Project}
+      \resumeItemListEnd
+    \resumeProjectHeading
+      {\textbf{Object Detection \& Image Segmentation} $|$ \emph{Python, OpenCV, TensorFlow-Keras}}{2024}
+      \resumeItemListStart
+        \resumeItem{Applied an object detection model from scratch on YOLO Labeled Mask Dataset with 98.5\% classifier accuracy.}
+        \resumeItem{Implemented U-Net-architecture-based image segmentation on the Oxford-IIIT Pet Dataset with 90.12\% accuracy.}
+        \resumeItem{Individual Project}
+      \resumeItemListEnd
+    \resumeProjectHeading
       {\textbf{Technical \& Non-Technical Competitions} $|$ \emph{Various}}{2022-2024}
       \resumeItemListStart
         \resumeItem{Participation in school and college events.}
         \resumeItem{Showcased teamwork, innovation, creativity.}
-        \resumeItem{10+ events, recognized in 50\% for solutions.}
+        \resumeItem{10+ events, recognized in 50\% for solutions and teamwork.}
         \resumeItem{Individual and Team Projects}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
@@ -197,14 +186,14 @@
 \section{Co-Curriculars}
   \resumeSubHeadingListStart
     \resumeProjectHeading
-      {\textbf{DJS Antariksh – Martian Rover Challenge Team} $|$ \emph{DJSCE}}{}
+      {\textbf{DJS Antariksh – Martian Rover Challenge Team} $|$ \emph{DJSCE}}{Since Apr 2024}
       \resumeItemListStart
         \resumeItem{Co-Committee Member, Science Department}
         \resumeItem{Design/testing of soil analysis protocols.}
         \resumeItem{Learnt about chemicals, sensors for Mars soil analysis, and for search of bio-signatures.}
       \resumeItemListEnd
     \resumeProjectHeading
-      {\textbf{Synapse AI/ML Committee} $|$ \emph{DJSCE}}{}
+      {\textbf{Synapse - AI/ML Committee} $|$ \emph{DJSCE}}{Since Aug 2024}
       \resumeItemListStart
         \resumeItem{ML Mentee, Co-Committee Member of Creatives-Editorial Team}
         \resumeItem{Understanding EDA, ML Algorithms, RNNs, LSTMs, Transformers.}
@@ -214,9 +203,9 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Languages}{: Java, Python, C, MySQL, HTML/CSS} \\
-     \textbf{Developer Tools}{: Git, Google Colab, VS Code} \\
-     \textbf{Libraries}{: pandas, NumPy, Matplotlib, SciKit Learn, TensorFlow, Keras}
+     \textbf{Languages \& Databases}{: Java, Python, C, MySQL, HTML/CSS} \\
+     \textbf{Developer Tools}{: Git, Google Colab, VS Code, Kaggle, Figma, Canva} \\
+     \textbf{Libraries}{: pandas, NumPy, Matplotlib, Seaborn, SciKit Learn, TensorFlow, Keras, tkinter, OpenCV, mysql.connector}
     }}
  \end{itemize}
 
